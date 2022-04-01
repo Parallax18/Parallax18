@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to with **Product driven teams**
 
-- 👨‍💻 Considering me for work? **[Here is my CV](https://drive.google.com/file/d/1sl5vbt0C568RA5ircxUMFa0Uk1msAw-3/view)**
+- 👨‍💻 Considering me for work? **[Here is my CV](https://drive.google.com/file/d/15CVYyM_ma1QH-crfaD92Smy4U-pQWmiI/view?usp=sharing)**
 
 - 📫 How to reach me **[joshuaokechukwu001@gmail.com](joshuaokechukwu001@gmail.com)**
 
