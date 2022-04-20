@@ -8,11 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 My most recent project - **[Gaia finance](https://gaia-finance.netlify.app/)**
+- 🔭 My most recent project - **[Mango sweep](https://mangosweep.vercel.app/)**
 
 - 🌱 I’m currently learning **Web3 technologies.**
 
-- 👯 I’m looking to with **Product driven teams**
+- 👯 I’m looking to work with **Product driven teams**
 
 - 👨‍💻 Considering me for work? **[Here is my CV](https://drive.google.com/file/d/15CVYyM_ma1QH-crfaD92Smy4U-pQWmiI/view?usp=sharing)**
 
