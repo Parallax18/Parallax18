@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 My most recent project - **[Mango sweep](https://mangosweep.vercel.app/)**
+- 🔭 My most recent project - **[Mango sweep](https://github-profile-beta.vercel.app/profile)**
 
 - 🌱 I’m currently learning **Web3 technologies.**
 
 - 👯 I’m looking to work with **Product driven teams**
 
-- 👨‍💻 Considering me for work? **[Here is my CV](https://drive.google.com/file/d/15CVYyM_ma1QH-crfaD92Smy4U-pQWmiI/view?usp=sharing)**
+- 👨‍💻 Considering me for work? **[Here is my CV](https://docs.google.com/document/d/12qws590d02_3DApvAMRVuzN6qGSXCOt47SPw5bgicWc/edit?usp=sharing)**
 
 - 📫 How to reach me **[joshuaokechukwu001@gmail.com](joshuaokechukwu001@gmail.com)**
 
