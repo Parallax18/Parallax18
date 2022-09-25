@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 My most recent project - **[Mango sweep](https://github-profile-beta.vercel.app/profile)**
+- 🔭 My most recent project - **[Github profile beta](https://github-profile-beta.vercel.app/profile)**
 
 - 🌱 I’m currently learning **Web3 technologies.**
 
