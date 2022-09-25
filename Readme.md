@@ -1,4 +1,4 @@
-<img width="100%" src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" />
+<img width="100%" src="https://res.cloudinary.com/parallaxcloudinary/image/upload/v1648759001/dev_dyvkvb.svg" height="200px" style="margin-top: 20px" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joshua</h1>
 <h2 align="center">I'm a self-driven Front-end and mobile developer.</h2> 
