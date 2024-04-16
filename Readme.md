@@ -1,2 +1,2 @@
-<h1 align="center">Hi, I'm Joshua</h1>
-<h2 align="center">I'm a Software engineer</h2>
+<h1 align="left">Hi, I'm Joshua</h1>
+<h2 align="left">I'm a Software engineer</h2>
