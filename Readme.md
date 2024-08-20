@@ -9,13 +9,15 @@ I'm a passionate full-stack developer with a knack for solving real-world proble
 ## 🚀 Projects I'm Proud Of
 
 ### [BookKlub 📚](https://github.com/Parallax18/bookklub)
-A platform that connects book lovers and helps them track their reading journey. With a clean UI and powerful features, BookKlub makes it easy to dive into your next great read.
+A social platform that makes it easier for readers to get hardcopy books by borrowing and lending, finding books in their interest, and connecting with other book lovers.
 
 ![BookKlub GIF](https://user-images.githubusercontent.com/0000000/000000000-bookklub.gif)
 
 ### [CSS to Tailwind Converter 🛠️](https://github.com/Parallax18/css-to-tailwind-converter)
 A handy tool that converts inline CSS styles to Tailwind CSS classes. Perfect for developers transitioning to Tailwind or looking to optimize their codebase.
 
+### [Safe-Blog-API 🔒](https://github.com/Parallax18/safe-blog-api)
+A simple CRUD API for a social platform with built-in AI hate-speech detection using Python.
 
 ---
 
@@ -29,7 +31,7 @@ A handy tool that converts inline CSS styles to Tailwind CSS classes. Perfect fo
 
 ### What I'm Exploring:
 - **Svelte**: Experimenting with this exciting framework for building super fast, reactive web apps.
-- **Convex**: Diving deep into Convex for seamless and typesafe backend developemnt and integrations.
+- **Convex**: Diving deep into Convex for seamless and typesafe backend development and integrations.
 
 ---
 
@@ -46,7 +48,6 @@ I believe in the power of open source and community-driven development. I'm alwa
 I'm always open to new opportunities, collaborations, or just a chat about tech. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuaokechukwu001)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/joshthebuilda)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/joshthebuilda)
 
 ---
-
