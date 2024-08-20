@@ -11,8 +11,6 @@ I'm a passionate full-stack developer with a knack for solving real-world proble
 ### [BookKlub 📚](https://github.com/Parallax18/bookklub)
 A social platform that makes it easier for readers to get hardcopy books by borrowing and lending, finding books in their interest, and connecting with other book lovers.
 
-![BookKlub GIF](https://user-images.githubusercontent.com/0000000/000000000-bookklub.gif)
-
 ### [CSS to Tailwind Converter 🛠️](https://github.com/Parallax18/css-to-tailwind-converter)
 A handy tool that converts inline CSS styles to Tailwind CSS classes. Perfect for developers transitioning to Tailwind or looking to optimize their codebase.
 
