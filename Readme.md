@@ -16,7 +16,6 @@ A platform that connects book lovers and helps them track their reading journey.
 ### [CSS to Tailwind Converter 🛠️](https://github.com/Parallax18/css-to-tailwind-converter)
 A handy tool that converts inline CSS styles to Tailwind CSS classes. Perfect for developers transitioning to Tailwind or looking to optimize their codebase.
 
-![CSS to Tailwind Converter Screenshot](https://user-images.githubusercontent.com/0000000/000000000-css-converter.png)
 
 ---
 
@@ -30,7 +29,7 @@ A handy tool that converts inline CSS styles to Tailwind CSS classes. Perfect fo
 
 ### What I'm Exploring:
 - **Svelte**: Experimenting with this exciting framework for building super fast, reactive web apps.
-- **Prisma**: Diving deep into Prisma for seamless database management and queries.
+- **Convex**: Diving deep into Convex for seamless and typesafe backend developemnt and integrations.
 
 ---
 
@@ -47,7 +46,7 @@ I believe in the power of open source and community-driven development. I'm alwa
 I'm always open to new opportunities, collaborations, or just a chat about tech. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuaokechukwu001)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/joshthebuilda)
+[![Twitter](https://img.shields.io/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/joshthebuilda)
 
 ---
 
