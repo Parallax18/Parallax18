@@ -27,11 +27,18 @@ A simple CRUD API for a social platform with built-in AI hate-speech detection u
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### What I'm Exploring:
 - **Svelte**: Experimenting with this exciting framework for building super fast, reactive web apps.
 - **Convex**: Diving deep into Convex for seamless and typesafe backend development and integrations.
+
+---
+
+## 💳 Experience with Circle's USDC
+
+I have hands-on experience working with Circle's USDC programmable wallets, enabling seamless and secure financial transactions in decentralized applications.
 
 ---
 
