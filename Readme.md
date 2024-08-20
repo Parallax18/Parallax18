@@ -46,7 +46,7 @@ I believe in the power of open source and community-driven development. I'm alwa
 I'm always open to new opportunities, collaborations, or just a chat about tech. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuaokechukwu001)
-[![Twitter](https://img.shields.io/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/joshthebuilda)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/joshthebuilda)
 
 ---
 
