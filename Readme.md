@@ -8,6 +8,11 @@ I'm a passionate full-stack developer with a knack for solving real-world proble
 
 ## 🚀 Projects I'm Proud Of
 
+
+### [Fanpool 📚](https://www.fanpool.gg/)
+Home of Real-Money Fantasy Premier League Contests.
+Lead fullstack engineer,solving real world problems in the FPL and decentralized gamification space. Fanpool is powered by USDC, and improving the experience of monetizing fantasy football leagues for users all over the world. **[Get started here](https://beta.fanpool.gg/auth/signin)**
+
 ### [BookKlub 📚](https://github.com/Parallax18/bookklub)
 A social platform that makes it easier for readers to get hardcopy books by borrowing and lending, finding books in their interest, and connecting with other book lovers.
 
